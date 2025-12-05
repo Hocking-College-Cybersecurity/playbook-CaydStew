@@ -1,0 +1,26 @@
+[
+    {
+        "action": "move",
+        "file": "Week7.md",
+        "to": "/workspaces/playbook-CaydStew/Week7/Other/2025-10"
+    },
+    {
+        "action": "move",
+        "file": "final_project.py",
+        "to": "/workspaces/playbook-CaydStew/Week7/Other/2025-12"
+    },
+    {
+        "action": "move",
+        "file": "final_project.py",
+        "to": "/workspaces/playbook-CaydStew/Week7/Misc"
+    },
+    {
+        "action": "move",
+        "file": "Week7.md",
+        "to": "/workspaces/playbook-CaydStew/Week7/Misc"
+    },
+    {
+        "action": "delete_folder",
+        "folder": "/workspaces/playbook-CaydStew/Week7/Other"
+    }
+]
